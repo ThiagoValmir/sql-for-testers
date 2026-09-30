@@ -25,8 +25,6 @@ Este projeto tem como objetivos:
 ## Tecnologias
 
 * **SQL**
-* **PostgreSQL**
-* **DBeaver**
 * **Git / GitHub**
 
 ---
